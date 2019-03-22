@@ -6,7 +6,7 @@ Things been done for the project:
 - Cleaned the data quality issues in the 'twitter-archive-enhanced.csv' file. Cleaned the data quality issues within the file.
 
 - used Tweepy API to query the data, such as: tweet ID, retweet count and favourite count from Twitter 
-  account: @dog_rates , also known as WeRateDogs. The result is stored into the 'tweet_json.txt' file
+  account: @dog_rates , also known as WeRateDogs. The result will be exported with the file name - 'tweet_json.txt'.
 
 - Loaded the dataset from Udacity's servers using the Request library and combined it with the file that I extracted previously from
   #dog_rates based on their tweet ID.
