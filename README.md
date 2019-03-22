@@ -10,7 +10,8 @@ Things been done for the project:
 
 - Loaded the dataset from Udacity's servers using the Request library and combined it with the file that I extracted previously from
   #dog_rates based on their tweet ID.
- 
+  
 - 'wrangle_act.ipynb': This file contains the code for data wrangling and analyzing processes.
 
-- Provided insights and visualisations based on the data provided, requested and extracted from various sources.
+- Provided insights and visualisations based on the file 'twitter_archive_master.csv' which is the combined version for those data
+  provided, requested and extracted from various sources.
